@@ -1,68 +1,63 @@
-<h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src=".github/podcastr.svg" />
-</h1>
+![](docs/nlw5.jpg)
+<h1 align="center">🎧 PODCASTR 🎧‍</h1>
+<h3 align="center">🏆 NEXT LEVEL WEEK 5 🏆</h3>
+
+### 🤔 O que é o Next Level Week?
+
+Criado pela Rocketseat, o NLW é uma semana prática com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
+
+Através do nosso método você aprende novas ferramentas, conhece novas tecnologias e descobre hacks que impulsionão a sua carreira.
+
+Um evento online e totalmente gratuito que te ajuda a dar o próximo passo na sua evolução como dev.
+
+_________
+
+### ✨ Sobre o projeto:
 
 <p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/guilhermecapitao/podcastr?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">     
-
-  <img src="https://img.shields.io/github/stars/guilhermecapitao/podcastr?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
+<img width="600" src="docs/podcastr.png">
 </p>
 
-<br>
+O Podcastr é uma aplicação desenvolvida durante a Next Level Week 5 de React da RocketSeat. Nele podemos escutar nossos podcasts preferidos e acompanhar a postagem de novos. O projeto foi construído ao longo de 5 dias com tecnologias e conceitos mais recentes do desenvolvimento web, usando NextJS e React e fazendo o fetch de uma API fake para trazer novos dados diariamente.
+_________
 
-<p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="160px">
-</p>
+## 💡 Tecnologias
 
-## 🧪 Technologies
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-This project was developed using the following technologies:
-
-- [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Next](https://nextjs.org/)
+- [Json Server](https://github.com/typicode/json-server)
 
-## 🚀 Getting started
+_________
 
-Clone the project and access the folder
+## 📝 Instalações e usos
 
-```bash
-$ git clone https://github.com/guilhermecapitao/podcastr.git && cd podcastr
+Clone ou faça o downlod desse repositório:
+
+```
+# Clone o repositório
+$ git clone https://github.com/LucasCancio/Podcastr-nlw05
 ```
 
-Follow the steps below
-```bash
-# Install the dependencies
-$ yarn
+Acesse a pasta do projeto e faça as instalações:
 
-# Run the JSON server
-$ yarn server
+```
+# Instale as dependencias
+$ npm install
 
-# Start the project
-$ yarn dev
+# Rode o Json Server
+$ npm run server
+
+# Inicie o projeto
+$ npm run dev
+
+# running on port 3000
 ```
 
-## 💻 Project
+_________
 
-[Podcastr](https://podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts! 💜 
+![](docs/rocket.gif)
 
-This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
-
-## 🔖 Layout
-
-You can view the project layout through the links below:
-
-- [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761) 
-
-Remembering that you need to have a [Figma](http://figma.com/) account to access it.
-
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
-
-
----
-
-<p align="center">Made with 💜 by Guilherme Capitão</p>
+## ❤ Agradeço muito a [Rocketseat](https://rocketseat.com.br/)
